@@ -7,5 +7,6 @@ int main(int argc, char *argv[])
     QQAplication w;
     w.show();
     w.setWindowTitle("QQ");
+    w.setWindowTitle("QQ");
     return a.exec();
 }
